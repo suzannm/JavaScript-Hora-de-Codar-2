@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hora de codar</title>
+</head>
+<body>
+    
+<script>
+
+var a = 10;
+var b = 2;
+
+
+prompt("Digite o valor de a: ", a);
+
+prompt("Digite o valor de b: ", b);
+
+
+if (a > b) {
+    alert("a é maior que b");
+} else if (a < b) {
+    alert("b é maior que a");
+} else {
+    alert("a é igual a b");
+}
+
+</script>
+
+</body>
+</html>
